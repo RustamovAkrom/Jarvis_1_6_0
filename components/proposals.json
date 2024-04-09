@@ -1,0 +1,33 @@
+[
+    {
+        "path": "D:/musik",
+        "tbr": [
+            "\u043c\u0443\u0437\u044b\u043a\u0443",
+            "\u043c\u0443\u0437\u044b\u043a\u0430",
+            "\u043c\u0443\u0437\u043b\u043e",
+            "\u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u0441\u043b\u0443\u0448\u0430\u0442\u044c",
+            "\u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u0441\u043b\u0443\u0448\u0430\u0435\u043c"
+        ]
+    },
+    {
+        "path": "C:/ProgramData/Microsoft/Windows/Start Menu/Programs/Google Chrome.lnk",
+        "tbr": [
+            "\u0431\u0440\u0430\u0443\u0437\u0435\u0440",
+            "\u0433\u0443\u0433\u043b \u0445\u0440\u043e\u043c",
+            "\u0433\u0443\u0433\u043b"
+        ]
+    },
+    {
+        "path": "C:/Users/user/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f Chrome/YouTube.lnk",
+        "tbr": [
+            "\u044e\u0442\u0443\u0431"
+        ]
+    },
+    {
+        "path": "C:/Users/user/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Telegram Desktop/Telegram.lnk",
+        "tbr": [
+            "telegram",
+            "\u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c\u043c\u0435"
+        ]
+    }
+]

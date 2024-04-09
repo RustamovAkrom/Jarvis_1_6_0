@@ -1,0 +1,36 @@
+plays:
+- activate: Play
+- поставь
+- включить
+- включи
+- послушаем
+- врубай
+opens:
+- activate: Open
+- открой
+- войти
+- войди
+- запусти
+whichs:
+- activate: DateTime
+- который
+- какое
+- какой
+- сегодняшняя
+- сейчас
+- сегодняшний
+- сегодняшнее
+- сегодняшняя
+- сегодняшнюю
+searchs:
+- activate: SearchingOnBrowser
+- ищи
+- найди
+- найти
+- найди-ка
+tel:
+- activate: SearchingOnWikipedia
+- расскажи
+- кто
+- скажи
+- скажи-ка

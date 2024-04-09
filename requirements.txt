@@ -1,0 +1,6 @@
+vosk==0.3.45
+SpeechRecognition==3.10.0
+python-Levenshtein==0.25.0
+PyAudio==0.2.13
+pygame==2.5.1
+pycaw==20240210
